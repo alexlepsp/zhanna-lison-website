@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # Жанна Лісон
 
 <img align="right" width="240" height="320" src="photos/zhanna-lison-photo.png">
