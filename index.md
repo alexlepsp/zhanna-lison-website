@@ -7,9 +7,12 @@ layout: plain
 <img align="right" width="240" height="320" src="photos/zhanna-lison-photo.png">
 
 <aside>
-<b>Привіт, 
-мене звуть Жанна Лісон, 
+<b>Привіт,
+<br /> 
+мене звуть Жанна Лісон,
+<br /> 
 я психолог, психотерапевт, спікер.</b>
+<br />
 <br />
 У психології я 12 років, з 2020 року практикую та працюю з клієнтами та організаціями. 
 <br />
@@ -70,11 +73,11 @@ layout: plain
 - Експертна психоедукація у сфреі сексуальної освіти.
 - Відповіді на запити та питання клієнтів у сфері психології й сексології.
 
-### **Igrzyska Wolności 2022**
+### Igrzyska Wolności 2022
 
 - виступ з темою “Ukraina jest kobietą” разом з спікерками Jolanta Kwaśniewska, Marta Malecka, Elizavieta Pikalova, Anna Dudek за підтримки партнера Wysokie Obcasy
 
-### **Fundacja Jolanty Kwaśniewskiej 2023**
+### Fundacja Jolanty Kwaśniewskiej 2023
 
 - участь у проекті MENTORIADA як експертка та учасниця
 
