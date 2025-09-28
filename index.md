@@ -76,8 +76,7 @@ __Привіт, мене звуть Жанна Лісон, я психолог, 
 
 - психолог-консультант та ментор кризового консультування на платформі
 
-## Контакти
-Запис та співпраця:
+## Контакти, запис та співпраця
 - telegram: [https://t.me/zhannalison](https://t.me/zhannalison)
 - lison.zh.lison@gmail.com
 - calendly: [https://calendly.com/zhanna_lison/psy](https://calendly.com/zhanna_lison/psy)
