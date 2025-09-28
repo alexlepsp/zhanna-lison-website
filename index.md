@@ -4,7 +4,7 @@ layout: plain
 
 # Жанна Лісон
 
-<img align="right" width="240" height="320" src="photos/zhanna-lison-photo.png">
+<img align="right" width="180" height="240" src="photos/zhanna-lison-photo.png">
 
 <aside>
 <b>Привіт,
