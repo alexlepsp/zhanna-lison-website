@@ -1,5 +1,5 @@
 ---
-layout: plain
+layout: base_bk
 ---
 
 # Жанна Лісон
